@@ -1,0 +1,72 @@
+Java
+-platform independent
+- Scalable (how????)
+-JDK -> platform dependent
+
+
+
+
+Compile time -> checks syntax -> compile time error (ex. missing semicolon , same function name )
+
+
+run time -> runs the code -> run time error (ex. accessing null pointer, any other logical errors)
+
+
+
+
+
+diff b/w "exception" and "error"
+
+exception = compile time error + run time error  
+
+exception  can be resolved by correcting the code
+
+
+error = caused by resource problem etc.. (ex. memmory, network error)
+
+error cannnot be fixed by changing code, it has to be solved by hardware fix, or networkkk etcccc.
+
+
+
+
+
+java -> JDK   (provides tools for development)
+     -> JRE   (provides run time environment)
+     -> JVM   (checks bite code given by JRE in runtime)
+     -> JIT   ()
+
+
+--------------------------------------------------------------
+
+how import work in c++?
+
+#include<stdio.h>
+
+------------
+add.h
+
+void add(int a, int b){
+cout << a+b;
+}
+
+---------------
+
+#include <./add.h>    // in this place add() function is replaced with this line 😯😯
+
+int main(){
+add(1,2)
+}
+
+----------------------------------------------------------------
+
+
+no 100% oops -> and for 100% oops -> wrapper class 
+ 
+------------------------------------------
+
+example.java -> example.class (this file is platform indenpendent) -> example.exe 
+
+-----------------------------------------
+
+
+what javaSCRPIT SCRPIT IS ATTACHED after body in html??
