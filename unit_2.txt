@@ -3,11 +3,53 @@ Java Unit 2
 
 String Pool
 
-and implicit string storing in heap memory
+and implicit string storing in heap memory (new key word)
 
 -------------------------------------------------
 
 Command line arguments
 
+xyz.java
+
+*****cmd
+
+javac xyz.java
+java xyz Hello World 
+
+******
+
+------------------------------------------
+
+new keyword creates reference in heap 
+
+
+- class (blueprint , never occupies memory)
+- object (new key word creates object and allocated memory in heap )
+
+----------------------------------------------------------------------
+
+instantiation and initialization 
+
+
+Instantiation: Creating an object of a class using the new keyword.
+
+Initialization: Assigning initial values to the object's fields (either via constructor or direct assignment).
+
+---------------------------------------------------------------
+
+Constructor Conditions 
+1.
+2.
+3....
+
+----------------------------------------------
+
+Chaining Constructor
+
+-------------------------
+
+exit keyword
+
+----------------------
 
 
