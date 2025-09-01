@@ -5,6 +5,8 @@ String Pool
 
 and implicit string storing in heap memory (new key word)
 
+https://i.sstatic.net/BRUZb.png
+
 -------------------------------------------------
 
 Command line arguments
