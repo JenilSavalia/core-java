@@ -2,10 +2,19 @@
 Java Unit 2
 
 String Pool
-
 and implicit string storing in heap memory (new key word)
 
 https://i.sstatic.net/BRUZb.png
+
+-The String object is the most used class in the Java language.
+- Strings in Java are immutable.
+
+**String Interning**
+- Thanks to the immutability of Strings in Java, the JVM can optimize the amount of memory allocated for them by storing only one copy of each literal String in the pool. This process is called interning
+
+**** Refer this link for detailed view of String Pool ****
+https://www.baeldung.com/java-string-pool
+
 
 -------------------------------------------------
 
