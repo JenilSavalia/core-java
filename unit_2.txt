@@ -15,6 +15,9 @@ https://i.sstatic.net/BRUZb.png
 **** Refer this link for detailed view of String Pool ****
 https://www.baeldung.com/java-string-pool
 
+*** Why String is Immutable in Java? ***
+https://www.scaler.com/topics/why-string-is-immutable-in-java/
+
 
 -------------------------------------------------
 
