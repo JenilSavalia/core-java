@@ -1,0 +1,30 @@
+sync vs async
+
+jdk vs jre vs vs jvm vs jre
+
+who compiles the .java -> .class ?
+
+explain oops ??????
+
+can library have a main function ?
+
+is oops platform independent ?
+
+reference vs normal variable
+
+string pool , how to overcome limitation of strong pool (one of the referencing need to change)
+
+instantiation v/s initialization 
+
+why constructor ?
+
+constructor chaining
+
+naming of public class name and and file 
+
+
+
+
+
+
+
