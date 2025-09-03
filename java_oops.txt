@@ -1,1 +1,11 @@
 
+Access Modifier
+
+- provides accessibility to class,method,constructor,variaable
+
+- Public **************
+
+
+
+
+file name and class name similarity ??
